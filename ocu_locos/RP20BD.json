@@ -1,0 +1,9 @@
+{
+          "vehicle": "loco",
+          "type": "RP20BD",
+          "weight_tons": 138.0,
+          "frontal_area": 120.0,
+          "C": 24.0,
+          "n_axles": 4,
+          "length": 75.0
+}

@@ -1,0 +1,9 @@
+{
+  "vehicle": "car",
+  "type": "Gondola",
+  "weight_tons": 28.0,
+  "frontal_area": 105.0,
+  "C": 12.0,
+  "n_axles": 4,
+  "length": 39.0
+}

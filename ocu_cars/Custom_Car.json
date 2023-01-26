@@ -1,0 +1,9 @@
+{
+  "vehicle": "car",
+  "type": "Custom_Car",
+  "weight_tons": 0.0,
+  "frontal_area": 0.0,
+  "C": 0.0,
+  "n_axles": 0.0,
+  "length": 0.0
+}

@@ -1,0 +1,9 @@
+{
+  "vehicle": "car",
+  "type": "Covered_Hopper_TNOX_2272",
+  "weight_tons": 111.6,
+  "frontal_area": 125,
+  "C": 7.1,
+  "n_axles": 4,
+  "length": 60
+}
